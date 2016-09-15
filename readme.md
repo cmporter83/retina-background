@@ -17,7 +17,7 @@ Usage
 ####Javascript
 
 ```
-import {RetinaBackground} from './RetinaBackground'
+import {RetinaBackground} from 'retina-background'
 
 $("*[data-background], *[data-background-2x]").each(function() {
     new RetinaBackground(this)
